@@ -4,3 +4,5 @@ console.log(country)
 
 const articalStatus = true
 console.log(typeof articalStatus)
+
+const bangladesh: string[] = ["chittogram","Dhaka","sylet"]
